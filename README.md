@@ -63,10 +63,11 @@ This project seeks to address the following core questions:
 
 Following Questions were answered
 
-1. Total Bookings and Booking Value ![Booking Dashboard](Images/Booking%20value.png)
-2. Booking Value Per Vehicle Type
-3. Booking Status Over Time
-4. Revenue by Payment Method
-5. Average Customer and Driver Ratings by Vehicle Type
-6. Cancelled Rides By Customer Reasons
-7. Cancelled Ride By Driver Reason
+1. Total Bookings and Booking Value ![Booking Dashboard](Images/Booking%20value.png) <br><br>
+2. Booking Value Per Vehicle Type ![Booking Dashboard](Images/Booking%20Value%20Per%20Vehicle%20Type.png) <br><br>
+3. Booking Status Over Time ![Booking Dashboard](Images/pie.png) <br><br>
+4. Revenue by Payment Method ![Booking Dashboard](Images/payment%20method.png) <br><br>
+5. Average Customer Ratings by Vehicle Type ![Booking Dashboard](Images/Customer%20Rating%20for%20Each%20Vehhicle%20Type.png) <br><br>
+6. Average Driver Ratings by Vehicle Type ![Booking Dashboard](Images/Driver%20Rating.png) <br><br>
+7. Cancelled Rides By Customer Reasons ![Booking Dashboard](Images/cancellation%20reason-%20Customer.png) <br><br>
+8. Cancelled Ride By Driver Reason ![Booking Dashboard](Images/cancellation%20reason-%20driver.png) <br><br>
