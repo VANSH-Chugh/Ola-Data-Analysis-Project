@@ -85,7 +85,7 @@ This analysis addresses the following core questions:
 
 #### ✅ Recommendations
 
-- Promote **E-Bikes** for long-distance urban commutes.
+- Promote **E-Bikes** for long-distance urban commutes.  
 - Optimize **Auto** supply in short-distance, high-density zones.
 
 ---
@@ -180,18 +180,50 @@ This analysis addresses the following core questions:
 
 ## ✅ Final Recommendations Summary
 
-| Area | Recommendation |
-|------|----------------|
-| Vehicle Types | Promote E-Bikes for long trips; deploy Autos in dense zones |
-| Cancellations | Incentivize drivers, optimize routing, offer car maintenance |
-| Payments | Encourage UPI & card use with offers and discounts |
-| Service Ratings | Focus on Bike & E-Bike quality improvements |
-| Driver Engagement | Recognize top performers and train lower-rated drivers |
+| Area            | Recommendation                                              |
+|-----------------|--------------------------------------------------------------|
+| Vehicle Types   | Promote E-Bikes for long trips; deploy Autos in dense zones |
+| Cancellations   | Incentivize drivers, optimize routing, offer car maintenance |
+| Payments        | Encourage UPI & card use with offers and discounts          |
+| Service Ratings | Focus on Bike & E-Bike quality improvements                 |
+| Driver Engagement | Recognize top performers and train lower-rated drivers     |
 
 ---
 
-## 📌 Conclusion
+## 🌍 Ola Global Ride Analysis – July 2024 (Bengaluru)
 
-This project offers a comprehensive view into the simulated Ola ride-hailing data for Bengaluru. It identifies patterns, reveals performance metrics, and proposes actionable insights to improve operational efficiency, customer satisfaction, and digital transformation in urban transport.
+### 📊 Key Highlights
+
+- **Total Bookings:** 103,024  
+- **Total Booking Value:** ₹35M  
+- **Success Rate:** 62.09%  
+- **Cancellation Rate:** 28.08%  
+- **Daily Ride Volume:** ~3,000–3,400
+
+### ❌ Cancellation Insights
+
+#### Cancelled by Customer
+- 🚧 Driver not moving: 30.2%  
+- 🙅 Driver asked to cancel: 25.4%  
+- 🔁 Change of plans: 19.8%
+
+#### Cancelled by Driver
+- 🔧 Car/personal issues: 35.5%  
+- 😤 Customer-related: 29.4%
+
+> **~38% of rides failed** due to cancellations or unavailability.
+
+### 🚀 Recommendations
+
+- 🔁 Auto reassign on no-shows  
+- ✅ Driver accountability system  
+- ⏱️ Better ETA communication  
+- 🤝 Passenger trust-building features
+
+⚠️ **Focus:** Reduce cancellations, optimize driver behavior, and enhance user satisfaction.
 
 ---
+
+### 🧾 Conclusion
+
+Ola’s July 2024 ride data in Bengaluru reveals strong service demand but highlights notable inefficiencies in cancellations. While e-Bikes and premium rides show promise, improving driver reliability and reducing failed bookings are key. Focused operational adjustments can significantly enhance user trust, satisfaction, and revenue potential in urban mobility.
