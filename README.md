@@ -60,13 +60,14 @@ The dataset used in this project is a **synthetic yet realistic representation**
 
 This project seeks to address the following core questions:
 
-- What is the distribution of vehicle types and their usage trends?
-- How do ride cancellations vary by reason, time, or location?
-- Which locations experience the highest number of cancellations or incomplete rides?
-- How do average wait times (VTAT/CTAT) vary by vehicle type and time of day?
-- Is there a correlation between ride distance, booking value, and customer satisfaction?
-- What are the key drivers behind negative ratings (driver/customer)?
-- How do operational challenges (e.g. breakdowns, customer demands) affect completion rates?
-- Are some vehicle types more prone to cancellations or breakdowns?
-- What are the spatial patterns of mobility within Bengaluru?
-- Which vehicle categories or service areas exhibit the highest efficiency?
+
+Following Questions were answered
+
+1. Total Bookings and Booking Value ![Booking Dashboard](images/dashboard.png)
+
+2. Booking Value Per Vehicle Type
+3. Booking Status Over Time
+4. Revenue by Payment Method
+5. Average Customer and Driver Ratings by Vehicle Type
+6. Cancelled Rides By Customer Reasons
+7. Cancelled Ride By Driver Reason
