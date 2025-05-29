@@ -190,7 +190,7 @@ This analysis addresses the following core questions:
 
 ---
 
-## 🌍 Ola Global Ride Analysis – July 2024 (Bengaluru)
+## 🌍 Complete Analysis – July 2024 (Bengaluru)
 
 ### 📊 Key Highlights
 
@@ -213,12 +213,21 @@ This analysis addresses the following core questions:
 
 > **~38% of rides failed** due to cancellations or unavailability.
 
+
 ### 🚀 Recommendations
 
-- 🔁 Auto reassign on no-shows  
-- ✅ Driver accountability system  
-- ⏱️ Better ETA communication  
-- 🤝 Passenger trust-building features
+- 🔁 **Auto reassign on no-shows**  
+  Automatically reassign bookings when drivers don't show up on time to reduce customer cancellations and improve ride completion rates.
+
+- ✅ **Driver accountability system**  
+  Implement a performance tracking system that flags frequent cancellations or poor ratings, holding drivers accountable and improving service consistency.
+
+- ⏱️ **Better ETA communication**  
+  Provide real-time, accurate ETA updates to customers and drivers to reduce uncertainty, cancellations, and improve time management during pickups.
+
+- 🤝 **Passenger trust-building features**  
+  Add features like verified driver profiles, live tracking, and safety alerts to foster trust and improve the overall experience.
+
 
 ⚠️ **Focus:** Reduce cancellations, optimize driver behavior, and enhance user satisfaction.
 
