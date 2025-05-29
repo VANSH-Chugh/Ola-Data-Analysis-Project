@@ -63,8 +63,7 @@ This project seeks to address the following core questions:
 
 Following Questions were answered
 
-1. Total Bookings and Booking Value ![Booking Dashboard](images/dashboard.png)
-
+1. Total Bookings and Booking Value ![Booking Dashboard](Images/Booking%20value.png)
 2. Booking Value Per Vehicle Type
 3. Booking Status Over Time
 4. Revenue by Payment Method
