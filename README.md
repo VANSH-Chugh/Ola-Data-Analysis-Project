@@ -2,7 +2,7 @@
 
 ## 📝 Introduction
 
-Urban mobility is one of the defining challenges of the modern city, and ride-hailing platforms like **Ola** have transformed how people move in and around metropolitan areas. This project aims to uncover key insights from a simulated dataset based on Ola ride bookings in **Bengaluru**, India's tech capital and a city known for its complex traffic patterns and diverse commute behaviors.
+Urban mobility is one of the defining challenges of the modern city, and ride-hailing platforms like **Ola** have transformed how people move in and around metropolitan areas. This project aims to uncover key insights from a **simulated dataset** based on Ola ride bookings in **Bengaluru**, India’s tech capital, known for its complex traffic patterns and diverse commute behaviors.
 
 The analysis applies data-driven methods to investigate user behavior, operational bottlenecks, service reliability, and satisfaction metrics—contributing toward smarter mobility solutions and better decision-making in the ride-hailing ecosystem.
 
@@ -60,14 +60,28 @@ The dataset used in this project is a **synthetic yet realistic representation**
 
 This project seeks to address the following core questions:
 
+### Key Findings & Visualizations
 
-Following Questions were answered
+1. Total Bookings and Booking Value  
+   ![Booking Dashboard](Images/Booking%20value.png)  
 
-1. Total Bookings and Booking Value ![Booking Dashboard](Images/Booking%20value.png) <br><br>
-2. Booking Value Per Vehicle Type ![Booking Dashboard](Images/Booking%20Value%20Per%20Vehicle%20Type.png) <br><br>
-3. Booking Status Over Time ![Booking Dashboard](Images/pie.png) <br><br>
-4. Revenue by Payment Method ![Booking Dashboard](Images/payment%20method.png) <br><br>
-5. Average Customer Ratings by Vehicle Type ![Booking Dashboard](Images/Customer%20Rating%20for%20Each%20Vehhicle%20Type.png) <br><br>
-6. Average Driver Ratings by Vehicle Type ![Booking Dashboard](Images/Driver%20Rating.png) <br><br>
-7. Cancelled Rides By Customer Reasons ![Booking Dashboard](Images/cancellation%20reason-%20Customer.png) <br><br>
-8. Cancelled Ride By Driver Reason ![Booking Dashboard](Images/cancellation%20reason-%20driver.png) <br><br>
+2. Booking Value Per Vehicle Type  
+   ![Booking Dashboard](Images/Booking%20Value%20Per%20Vehicle%20Type.png)  
+
+3. Booking Status Over Time  
+   ![Booking Dashboard](Images/pie.png)  
+
+4. Revenue by Payment Method  
+   ![Booking Dashboard](Images/payment%20method.png)  
+
+5. Average Customer Ratings by Vehicle Type  
+   ![Booking Dashboard](Images/Customer%20Rating%20for%20Each%20Vehhicle%20Type.png)  
+
+6. Average Driver Ratings by Vehicle Type  
+   ![Booking Dashboard](Images/Driver%20Rating.png)  
+
+7. Cancelled Rides By Customer Reasons  
+   ![Booking Dashboard](Images/cancellation%20reason-%20Customer.png)  
+
+8. Cancelled Ride By Driver Reason  
+   ![Booking Dashboard](Images/cancellation%20reason-%20driver.png)  
